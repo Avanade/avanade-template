@@ -4,7 +4,7 @@ This work is intended to research the future of work, and the impact that bringi
 
 ## Licence
 
-Note here if the research is not released under the MIT licence for the project.
+Note here if the research is not released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 
 ## Initial question / Feasability study
 
