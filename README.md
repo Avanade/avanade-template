@@ -32,6 +32,10 @@ All code is provided without warranty, and with documentation/support on a best 
 
 Using a prescriptive format based on the information [provided by Kriasoft](https://github.com/KriaSoft/Folder-Structure-Conventions) under the MIT license.
 
+## Trendlines Hierachy
+
+![](./process-assets/relation.svg)
+
 #### Typical layout
 
     .

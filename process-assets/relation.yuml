@@ -1,0 +1,11 @@
+// {type:class}
+// {direction:topDown}
+// {generate:true}
+
+[Trendline]<>-hypotheses 1..*>[Hypothesis]
+
+[Hypothesis]->[Experiment]
+
+[Experiment]->[Repository]
+
+[Hypothesis]-[note: for hypotheses which are too high level, these may need to be broken up into smaller testable hypotheses{bg:wheat}]
