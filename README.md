@@ -24,6 +24,10 @@ This hypothesis either relates to an established [trendline](https://www.avanade
 
 6. Once the open sourcing process is complete, the repository can be made public.
 
+## Trendlines Hierachy
+
+![](./process-assets/relation.svg)
+
 ## Standards
 
 All code is provided without warranty, and with documentation/support on a best endeavours basis only, unless otherwise stated.
@@ -31,10 +35,6 @@ All code is provided without warranty, and with documentation/support on a best 
 ### Folder structure
 
 Using a prescriptive format based on the information [provided by Kriasoft](https://github.com/KriaSoft/Folder-Structure-Conventions) under the MIT license.
-
-## Trendlines Hierachy
-
-![](./process-assets/relation.svg)
 
 #### Typical layout
 
