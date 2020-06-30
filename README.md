@@ -2,6 +2,13 @@
 
 Documentation on the process the EmTech team follows to test a hypothesis, experiment, and publish.
 
+## Our Projects and Work
+
+| Name                                                                                   | Description                                                                      |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Voice Font Composer](https://github.com/Avanade/VoiceFontComposer)                    | Using a GUI to generate a package for the Microsoft Voice Font composer service. |
+| [EmTech University Parnering](https://github.com/Avanade/emtech-university-partnering) | An overview of the work we do with academia.                                     |
+
 ## Research and Engineering
 
 We work iteratively, using Design Thinking to establish a hypothesis.
