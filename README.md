@@ -3,11 +3,21 @@
 Documentation on the process the EmTech team follows to test a hypothesis, experiment, and publish.
 
 ## Our Projects and Work
+### Research Sprints
 
-| Name                                                                                   | Description                                                                      |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Voice Font Composer](https://github.com/Avanade/VoiceFontComposer)                    | Using a GUI to generate a package for the Microsoft Voice Font composer service. |
-| [EmTech University Parnering](https://github.com/Avanade/emtech-university-partnering) | An overview of the work we do with academia.                                     |
+| Name                                                                              | Description                                                                                                 | Status      | Outputs                                                                                |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------- |
+| [XR for Business](https://github.com/Avanade/emtech-xr/blob/master/hypothesis.md) | Reviewing the potential business benefits of XR.                                                            | Complete    | Point of view on XR, recreated the London Office in AltSpaceVR.                        |
+| [Thinking Machines](https://github.com/Avanade/emtech-thinking-machines)          | Reviewing machines that can think and act like people.                                                      | In Progress | Framework for creating re-usable machine components. Publishing awaiting legal review. |
+| Distributed Data                                                                  | Reviewing the future of distributed data sharing, including ledgers, databases, and other forms of sharing. | In Planning | -                                                                                      |
+
+
+
+### Other work
+| Name                                                                     | Description                                                                                              |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [University Parnering](https://github.com/Avanade/university-partnering) | The EmTech team lead Avanade's university program. The work EmTech does with academia can be found here. |
+| [Voice Font Composer](https://github.com/Avanade/VoiceFontComposer)      | Using a GUI to generate a package for the Microsoft Voice Font composer service.                         |
 
 ## Research and Engineering
 
@@ -59,6 +69,6 @@ Using a prescriptive format based on the information [provided by Kriasoft](http
 
 ## Open Sourcing
 
-See [the intranet page](https://avanade.sharepoint.com/sites/GrowthOffice/SitePages/EmTech-Open-Sourcing.aspx) for full details on the open sourcing process to follow.
+Employees can see [the intranet site](https://avanade.sharepoint.com/sites/opensource) for full details on the Avanade Open Source process.
 
 Track open sourcing status in [the GitHub project](https://github.com/orgs/Avanade/projects/1).
