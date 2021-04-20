@@ -5,11 +5,12 @@ Documentation on the process the EmTech team follows to test a hypothesis, exper
 ## Our Projects and Work
 ### Research Sprints
 
-| Name                                                                              | Description                                                                                                 | Status      | Outputs                                                                                |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------- |
-| [XR for Business](https://github.com/Avanade/emtech-xr/blob/master/hypothesis.md) | Reviewing the potential business benefits of XR.                                                            | Complete    | Point of view on XR, recreated the London Office in AltSpaceVR.                        |
-| [Thinking Machines](https://github.com/Avanade/emtech-thinking-machines)          | Reviewing machines that can think and act like people.                                                      | In Progress | Framework for creating re-usable machine components. Publishing awaiting legal review. |
-| Distributed Data                                                                  | Reviewing the future of distributed data sharing, including ledgers, databases, and other forms of sharing. | In Planning | -                                                                                      |
+| Name                                                                     | Description                                                                                                        | Status      | Outputs                                                         |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------- | --------------------------------------------------------------- |
+| [XR for Business](https://github.com/Avanade/emtech-xr/)                 | Reviewing the potential business benefits of XR.                                                                   | Complete    | Point of view on XR, recreated the London Office in AltSpaceVR. |
+| [Stretch Labs](https://github.com/Avanade/emtech-stretch-labs)           | Related to our thinking machines work. Experimentation with the Stretch RE3 from Hello Robot, NextMind, and Rocos. | Ongoing     | Published.                                                      |
+| [Thinking Machines](https://github.com/Avanade/emtech-thinking-machines) | Reviewing machines that can think and act like people. Framework for creating re-usable machine components.        | In Progress | Ready to publish                                                |
+| Distributed Data                                                         | Reviewing the future of distributed data sharing, including ledgers, databases, and other forms of sharing.        | In Planning | -                                                               |
 
 
 
