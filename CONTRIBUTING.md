@@ -4,7 +4,7 @@ This project welcomes contributions and suggestions. By contributing, you confir
 
 Please feel free to contribute code, ideas, improvements, and patches - we've added some general guidelines and information below, and you can propose changes to this document in a pull request.
 
-This project has adopted the [Contributor Covenant Code of Conduct](./CODE_OF_CONDUCT.md).
+This project has adopted the [Contributor Covenant Code of Conduct]([./CODE_OF_CONDUCT.md](https://avanade.github.io/code-of-conduct/)).
 
 
 ## Rights to your contributions

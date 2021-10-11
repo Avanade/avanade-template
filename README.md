@@ -10,6 +10,7 @@ DELETE THIS COMMENT
 ![GitHub issues](https://img.shields.io/github/issues/Avanade/avanade-template)
 ![GitHub](https://img.shields.io/github/license/Avanade/avanade-template)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Avanade/avanade-template?style=social)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code-of-conduct)
 
 ```
 Update the repo URL addresses for the shield templates.
@@ -92,7 +93,7 @@ DELETE THIS COMMENT
 ```
 
   [avanade]:                https://www.avanade.com
-  [code-of-conduct]:        ./CODE_OF_CONDUCT.md
+  [code-of-conduct]:        https://avanade.github.io/code-of-conduct/
   [contributing]:           ./CONTRIBUTING.md
   [docs-getting-started]:   ./docs/start-here.md
   [issues]: https://github.com/Avanade/avanade-template/issues
