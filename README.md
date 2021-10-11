@@ -1,75 +1,99 @@
-# emtech-process
+# avanade-template
+> This is an example template for Avanade OSS projects.
 
-Documentation on the process the EmTech team follows to test a hypothesis, experiment, and publish.
+```
+Add a short description of your project.
+DELETE THIS COMMENT
+```
 
-## Our Projects and Work
-### Research Sprints
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+![GitHub issues](https://img.shields.io/github/issues/Avanade/avanade-template)
+![GitHub](https://img.shields.io/github/license/Avanade/avanade-template)
+![GitHub Repo stars](https://img.shields.io/github/stars/Avanade/avanade-template?style=social)
 
-| Name                                                                     | Description                                                                                                        | Status      | Outputs                                                         |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------- | --------------------------------------------------------------- |
-| [XR for Business](https://github.com/Avanade/emtech-xr/)                 | Reviewing the potential business benefits of XR.                                                                   | Complete    | Point of view on XR, recreated the London Office in AltSpaceVR. |
-| [Stretch Labs](https://github.com/Avanade/emtech-stretch-labs)           | Related to our thinking machines work. Experimentation with the Stretch RE3 from Hello Robot, NextMind, and Rocos. | Ongoing     | Published.                                                      |
-| [Thinking Machines](https://github.com/Avanade/emtech-thinking-machines) | Reviewing machines that can think and act like people. Framework for creating re-usable machine components.        | In Progress | Ready to publish                                                |
-| Distributed Data                                                         | Reviewing the future of distributed data sharing, including ledgers, databases, and other forms of sharing.        | In Planning | -                                                               |
+```
+Update the repo URL addresses for the shield templates.
+DELETE THIS COMMENT
+```
+
+## Overview
+Describe the project in more detail. **This project is an example project, to be used when creating new Avanade Open Source projects.**
+
+```
+Add a description of your project, and a screenshot if possible.
+DELETE THIS COMMENT
+```
 
 
+## Licensing
+avanade-template is available under the [MIT Licence](licence).
+```
+Update the project name.
+DELETE THIS COMMENT
+```
 
-### Other work
-| Name                                                                     | Description                                                                                              |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| [University Parnering](https://github.com/Avanade/university-partnering) | The EmTech team lead Avanade's university program. The work EmTech does with academia can be found here. |
-| [Voice Font Composer](https://github.com/Avanade/VoiceFontComposer)      | Using a GUI to generate a package for the Microsoft Voice Font composer service.                         |
+## Solutions Referenced
 
-## Research and Engineering
+- [Azure SQL Database ledger tables](https://docs.microsoft.com/en-us/azure/azure-sql/database/ledger-overview?WT.mc_id=AI-MVP-5004204)
+- [Azure Confidential Ledger](https://docs.microsoft.com/en-gb/azure/confidential-ledger/?WT.mc_id=AI-MVP-5004204)
 
-We work iteratively, using Design Thinking to establish a hypothesis.
 
-This hypothesis either relates to an established [trendline](https://www.avanade.com/en/thinking/research-and-insights/trendlines/emerging-technologies), partner, or technology release.
+```
+These are provided as examples. Include links to components you have used, or delete this section.
+DELETE THIS COMMENT
+```
 
-1. Once a hypothesis has been created, then we identify an experiment to test the hypothesis. The `template-artefacts` folder is used to start a private repository in GitHub.
+## Documentation
+The `docs` folder contains [more detailed documentation](docs-getting-started), along with setup instructions.
 
-2. The repository should be added to the [EmTech team](https://github.com/orgs/Avanade/teams/emtech) repositories list.
+```
+Add an optional installation or usage section, if the instructions are <3 lines
+e.g.
+### Installation
 
-3. Information in the readme.md and hypothesis.md templates should be completed. These documents are not prescriptive.
+### Usage
 
-4. The experiment and hypothesis should be completed.
+DELETE THIS COMMENT
+```
 
-5. The repository should follow the [Open Sourcing process](https://avanade.sharepoint.com/sites/GrowthOffice/SitePages/EmTech-Open-Sourcing.aspx) at this point.
+## Contact
+Feel free to [raise an issue on GitHub](issues).
 
-   - If the project was client or partner funded, we will need their consent.
-   - If the project used technology released under NDA (for example, private prevoews), then we will either need consent from the relevant product owner, or need to embargo the repository until the technology is published publicly.
-   - If the project used information released under NDA, then we will either need consent from the party providing information, or will need to see if the project can be re-worked using informaiton that is freely available.
+## Contributing
+Contributions are welcome. See information on [contributing](contributing), as well as our [code of conduct](code-of-conduct).
 
-6. Once the open sourcing process is complete, the repository can be made public.
+If you're happy to follow these guidelines, then check out the [getting started](docs-getting-started) guide.
 
-## Trendlines Hierachy
+```
+Leave the code of conduct unchanged
+DELETE THIS COMMENT
+```
 
-![](./process-assets/relation.svg)
+## Who is Avanade?
 
-## Standards
+[Avanade](avanade) is the leading provider of innovative digital and cloud services, business solutions and design-led experiences on the Microsoft ecosystem, and the power behind the Accenture Microsoft Business Group.
+```
+Leave the boilerplate unchanged
+DELETE THIS COMMENT
+```
 
-All code is provided without warranty, and with documentation/support on a best endeavours basis only, unless otherwise stated.
+```
+If needed, review the Open Source site on the intranet for more information.
 
-### Folder structure
+Full details at https://avanade.sharepoint.com/sites/opensource
 
-Using a prescriptive format based on the information [provided by Kriasoft](https://github.com/KriaSoft/Folder-Structure-Conventions) under the MIT license.
+DELETE THIS COMMENT
+```
 
-#### Typical layout
+```
+Add frequently used links below
+Only appears in raw markdown mode
+DELETE THIS COMMENT
+```
 
-    .
-    ├── src                     # Source files
-    ├── dist                    # Compiled files (where provided)
-    ├── docs                    # Documentation files and design artefacts (where needed)
-    ├── test                    # Automated tests (where created)
-    ├── tools                   # Tools and utilities (where provided)
-    ├── LICENSE
-    ├── LICENSE-EXCLUSIONS
-    ├── full-licence
-    ├── hypothesis.md
-    └── README.md
-
-## Open Sourcing
-
-Employees can see [the intranet site](https://avanade.sharepoint.com/sites/opensource) for full details on the Avanade Open Source process.
-
-Track open sourcing status in [the GitHub project](https://github.com/orgs/Avanade/projects/1).
+  [avanade]:                https://www.avanade.com
+  [code-of-conduct]:        ./CODE_OF_CONDUCT.md
+  [contributing]:           ./CONTRIBUTING.md
+  [docs-getting-started]:   ./docs/start-here.md
+  [issues]: https://github.com/Avanade/avanade-template/issues
+  [licence]: ./LICENCE
