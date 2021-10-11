@@ -27,7 +27,7 @@ DELETE THIS COMMENT
 
 
 ## Licensing
-avanade-template is available under the [MIT Licence](licence).
+avanade-template is available under the [MIT Licence](./LICENCE).
 ```
 Update the project name.
 DELETE THIS COMMENT
@@ -45,7 +45,7 @@ DELETE THIS COMMENT
 ```
 
 ## Documentation
-The `docs` folder contains [more detailed documentation](docs-getting-started), along with setup instructions.
+The `docs` folder contains [more detailed documentation](./docs/start-here.md), along with setup instructions.
 
 ```
 Add an optional installation or usage section, if the instructions are <3 lines
@@ -58,12 +58,15 @@ DELETE THIS COMMENT
 ```
 
 ## Contact
-Feel free to [raise an issue on GitHub](issues).
-
+Feel free to [raise an issue on GitHub](https://github.com/Avanade/avanade-template/issues), or see our [security disclosure](./SECURITY.md) policy.
+```
+Update the repo URL.
+DELETE THIS COMMENT
+```
 ## Contributing
-Contributions are welcome. See information on [contributing](contributing), as well as our [code of conduct](code-of-conduct).
+Contributions are welcome. See information on [contributing](./CONTRIBUTING.md), as well as our [code of conduct](https://avanade.github.io/code-of-conduct/).
 
-If you're happy to follow these guidelines, then check out the [getting started](docs-getting-started) guide.
+If you're happy to follow these guidelines, then check out the [getting started](./docs/start-here.md) guide.
 
 ```
 Leave the code of conduct unchanged
@@ -72,7 +75,7 @@ DELETE THIS COMMENT
 
 ## Who is Avanade?
 
-[Avanade](avanade) is the leading provider of innovative digital and cloud services, business solutions and design-led experiences on the Microsoft ecosystem, and the power behind the Accenture Microsoft Business Group.
+[Avanade](https://www.avanade.com) is the leading provider of innovative digital and cloud services, business solutions and design-led experiences on the Microsoft ecosystem, and the power behind the Accenture Microsoft Business Group.
 ```
 Leave the boilerplate unchanged
 DELETE THIS COMMENT
@@ -85,16 +88,3 @@ Full details at https://avanade.sharepoint.com/sites/opensource
 
 DELETE THIS COMMENT
 ```
-
-```
-Add frequently used links below
-Only appears in raw markdown mode
-DELETE THIS COMMENT
-```
-
-  [avanade]:                https://www.avanade.com
-  [code-of-conduct]:        https://avanade.github.io/code-of-conduct/
-  [contributing]:           ./CONTRIBUTING.md
-  [docs-getting-started]:   ./docs/start-here.md
-  [issues]: https://github.com/Avanade/avanade-template/issues
-  [licence]: ./LICENCE
