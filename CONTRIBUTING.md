@@ -4,7 +4,7 @@ This project welcomes contributions and suggestions. By contributing, you confir
 
 Please feel free to contribute code, ideas, improvements, and patches - we've added some general guidelines and information below, and you can propose changes to this document in a pull request.
 
-This project has adopted the [Contributor Covenant Code of Conduct]([./CODE_OF_CONDUCT.md](https://avanade.github.io/code-of-conduct/)).
+This project has adopted the [Contributor Covenant Code of Conduct](https://avanade.github.io/code-of-conduct/).
 
 
 ## Rights to your contributions
@@ -16,7 +16,7 @@ By contributing to this project, you:
 - Agree that, if you did not author 100% of the content, the appropriate licenses and copyrights have been added along with any other necessary attribution.
 
 ## Code of Conduct
-This project, and people participating in it, are governed by our [code of conduct](./CODE_OF_CONDUCT.md). By taking part, we expect you to try your best to uphold this code of conduct. If you have concerns about unacceptable behaviour, please contact the community leaders responsible for enforcement at
+This project, and people participating in it, are governed by our [code of conduct](https://avanade.github.io/code-of-conduct/). By taking part, we expect you to try your best to uphold this code of conduct. If you have concerns about unacceptable behaviour, please contact the community leaders responsible for enforcement at
 [ospo@avanade.com](ospo@avanade.com).
 
 ## What should I know before I get started?
