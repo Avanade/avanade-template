@@ -76,7 +76,7 @@ DELETE THIS COMMENT
 
 ## Who is Avanade?
 
-[Avanade](https://www.avanade.com) is the leading provider of innovative digital and cloud services, business solutions and design-led experiences on the Microsoft ecosystem, and the power behind the Accenture Microsoft Business Group.
+[Avanade](https://www.avanade.com) is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem.
 ```
 Leave the boilerplate unchanged
 DELETE THIS COMMENT
