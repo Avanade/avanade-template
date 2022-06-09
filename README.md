@@ -65,7 +65,7 @@ Update the repo URL.
 DELETE THIS COMMENT
 ```
 ## Contributing
-Contributions are welcome. See information on [contributing](./CONTRIBUTING.md), as well as our [code of conduct](https://avanade.github.io/code-of-conduct/).
+Contributions are welcome. See information on [contributing](./CONTRIBUTING.md), as well as our [code of conduct](https://avanade.github.io/code-of-conduct/). Avanade asks that all commits sign the [Developer Certificate of Origin](https://developercertificate.org/).
 
 If you're happy to follow these guidelines, then check out the [getting started](./docs/start-here.md) guide.
 
