@@ -23,5 +23,10 @@ This project, and people participating in it, are governed by our [code of condu
 ### Workflow
 We use the [standard GitHub workflow](https://guides.github.com/introduction/flow/), and asking our contributors to use [semantic commits](https://nitayneeman.com/posts/understanding-semantic-commit-messages-using-git-and-angular/#common-types) to support their contributions.
 
+### Developer Certificate of Origin (DCO)
+Avanade asks that all commits sign the [Developer Certificate of Origin](https://developercertificate.org/), to ensure that every developer is confirming that they have the right to upload the code they submit.
+
+Sign-offs are added to the commit. Git has a  `-s` command line option to append this automatically to your commit message, and [sign offs can be added through the web interface](https://github.blog/changelog/2022-06-08-admins-can-require-sign-off-on-web-based-commits/).
+
 ### Documentation
 Please document changes as you go in the the documentation directory.
