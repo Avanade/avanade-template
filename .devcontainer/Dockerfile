@@ -20,4 +20,4 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -
      && python3 -m pip install --no-cache-dir --upgrade pip
 
 # Install commitizen as a global node package
-RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && echo '{ \"path\": \"cz-customizable\" }' > ~/.czrc && npm install -g commitizen cz-customizable" 2>&1
+RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && echo '{ \"path\": \"cz-customizable\" }' > ~/.czrc && npm install --location=global commitizen cz-customizable" 2>&1
