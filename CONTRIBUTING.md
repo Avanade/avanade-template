@@ -9,11 +9,12 @@ This project has adopted the [Contributor Covenant Code of Conduct](https://avan
 
 ## Rights to your contributions
 By contributing to this project, you:
-- Agree that you have authored 100% of the content
+- Agree that you have either:
+  - Authored 100% of the content, or;
+  - the appropriate licenses and copyrights are contributed along with any other necessary attribution, following the [Developer Certificate of Origin](https://developercertificate.org/).
 - Agree that you have the necessary rights to the content
 - Agree that you have received the necessary permissions from your employer to make the contributions (if applicable)
 - Agree that the content you contribute may be provided under the Project license(s)
-- Agree that, if you did not author 100% of the content, the appropriate licenses and copyrights have been added along with any other necessary attribution.
 
 ## Code of Conduct
 This project, and people participating in it, are governed by our [code of conduct](https://avanade.github.io/code-of-conduct/). By taking part, we expect you to try your best to uphold this code of conduct. If you have concerns about unacceptable behaviour, please contact the community leaders responsible for enforcement at
