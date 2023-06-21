@@ -28,9 +28,10 @@ DELETE THIS COMMENT
 
 
 ## Licensing
-avanade-template is available under the [MIT Licence](./LICENCE).
+avanade-template is UNLICENSED and for internal use only, without legal review. See the Avanade Open Source site to start legal approvals.
 ```
-Update the project name.
+The avanade-template is available under the MIT licence, but subsequent projects created on Avanade InnerSource are not.
+Update the project name and licence.
 DELETE THIS COMMENT
 ```
 
