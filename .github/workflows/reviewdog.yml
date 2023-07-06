@@ -9,3 +9,5 @@ jobs:
       uses: reviewdog/action-detect-secrets@master
       with:
         reporter: github-pr-review
+        level: error
+        fail_on_error: true
