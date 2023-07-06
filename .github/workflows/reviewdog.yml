@@ -8,4 +8,4 @@ jobs:
     - name: detect-secrets
       uses: reviewdog/action-detect-secrets@master
       with:
-        reporter: Sealjay
+        reporter: github-pr-review
