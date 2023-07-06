@@ -1,5 +1,8 @@
+| :point_up:    | Remember: Change all the information in this file when your project is created, following the comments between the ``` symbols. |
+|---------------|:------------------------|
+
 # avanade-template
-> This is an example template for Avanade OSS projects.
+> This is an example template for Avanade Open Source and InnerSource projects.
 
 ```
 Add a short description of your project.
@@ -14,7 +17,7 @@ DELETE THIS COMMENT
 [![Incubating InnerSource](https://img.shields.io/badge/Incubating-Ava--Maturity-%23FF5800?labelColor=yellow)](https://avanade.github.io/maturity-model/)
 
 ```
-Update the repo URL addresses for the shield templates.
+Update the repository URL addresses for the shield templates.
 DELETE THIS COMMENT
 ```
 
