@@ -1,5 +1,8 @@
+| :point_up:    | Remember: Change all the information in this file when your project is created, following the comments between the ``` symbols. |
+|---------------|:------------------------|
+
 # avanade-template
-> This is an example template for Avanade OSS projects.
+> This is an example template for Avanade Open Source and InnerSource projects.
 
 ```
 Add a short description of your project.
