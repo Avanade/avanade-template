@@ -80,17 +80,13 @@ DELETE THIS COMMENT
 
 ## Who are Avanade?
 
-[Avanade](https://www.avanade.com) is the world’s leading expert on Microsoft. Trusted by over 5,000 clients worldwide, we deliver AI-driven solutions that unlock the full potential of people and technology, optimize operations, foster innovation and drive growth.
+[Avanade](https://www.avanade.com) is the world’s leading expert on Microsoft. Trusted by over 7,000 clients worldwide, we deliver AI-driven solutions that unlock the full potential of people and technology, optimize operations, foster innovation and drive growth.
 
 As Microsoft’s Global SI Partner we combine global scale with local expertise in AI, cloud, data analytics, cybersecurity, and ERP to design solutions that prioritize people and drive meaningful impact.
 
 We champion diversity, inclusion, and sustainability, ensuring our work benefits society and business.
 
 Learn more at [www.avanade.com](https://www.avanade.com)
-```
-Leave the boilerplate unchanged
-DELETE THIS COMMENT
-```
 
 ```
 If needed, review the Open Source site on the intranet for more information.
